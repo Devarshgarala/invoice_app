@@ -1,8 +1,10 @@
 Screenshots of app
+
+
 **#Home page**
 ![image](https://github.com/user-attachments/assets/c563083b-faf2-4a53-995b-4d41921ac1fb)
 
-**#Invoice padge**
+**#Invoice page**
 ![image](https://github.com/user-attachments/assets/89daf4c6-fb4e-4e14-b5a6-05a219134899)
 
 **#adding new invoice**
