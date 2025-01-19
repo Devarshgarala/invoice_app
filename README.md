@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Invoices App - MERN Stack
 
 ## Introduction
@@ -81,6 +81,3 @@ The backend will be running at http://localhost:4000
 
 Now, the Invoices App should be fully functional locally.
 
-=======
-# invoice_app
->>>>>>> 354fe9ec33ae14b9d1e6d3cdab800b2b6425f56e
