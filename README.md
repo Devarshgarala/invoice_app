@@ -1,30 +1,38 @@
-Screenshots of app
+**Screenshots of app**
 
 
 **#Home page**
+
 ![image](https://github.com/user-attachments/assets/c563083b-faf2-4a53-995b-4d41921ac1fb)
 
 **#Invoice page**
+
 ![image](https://github.com/user-attachments/assets/89daf4c6-fb4e-4e14-b5a6-05a219134899)
 
-**#adding new invoice**
+**#Adding new invoice**
+
 ![image](https://github.com/user-attachments/assets/80f1f2ac-7d58-4da8-8d0c-33ca0e33086d)
 
-**#adding details of invoice**
+**#Adding details of invoice**
+
 ![image](https://github.com/user-attachments/assets/1ac4332c-e308-455f-a919-d38506ec53cc)
 
-**#partners page**
+**#Partners page**
+
 ![image](https://github.com/user-attachments/assets/418ecaaa-9f70-4d55-a90a-216181e9ab94)
 
-**#adding new partner**
+**#Adding new partner**
+
 ![image](https://github.com/user-attachments/assets/25ba512f-452e-45d6-b3f9-0bdc70a8b4b8)
 
 
-**#tried google auth page getting error**
+**#Tried google auth page getting error**
+
 ![Screenshot 2025-01-19 124125](https://github.com/user-attachments/assets/cb8a0d4c-6838-451d-bc7f-09e23e2d4a3e)
 
 
-**#and for zapier part I tried but it was paid only.**
+**#And for zapier part I tried but it was paid only.**
+
 ![Screenshot (13)](https://github.com/user-attachments/assets/15f104a6-5f31-4377-8abe-6e32816850af)
 
 
