@@ -75,7 +75,7 @@ const Home = () => {
 
     <section className="w-full rounded-[20px] shadow-3xl px-8 py-4 mt-5">
       <Helmet>
-        <title>Stats - Invoice App</title>
+        <title>Invoice App</title>
       </Helmet>
       <h1 className="text-2xl font-bold mb-4">Stats</h1>
 
